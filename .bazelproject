@@ -1,0 +1,11 @@
+directories:
+  .
+
+test_sources:
+  */src/test/java/*
+
+targets:
+  //...
+
+workspace_type: java
+java_language_level: 8
